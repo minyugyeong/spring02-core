@@ -23,6 +23,9 @@ public class AppConfig {
     //call AppConfig.orderService
     //call AppConfig.memberRepository
 
+    //call AppConfig.memberService
+    //call AppConfig.memberRepository
+    //call AppConfig.orderService
 
     @Bean
     public MemberService memberService(){
